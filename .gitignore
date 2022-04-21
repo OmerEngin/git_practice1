@@ -1,3 +1,7 @@
 file1.txt
 file2.txt
-power
+/power/
+/.idea/
+/file1.txt
+/file2.txt
+*.iml
